@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "We are the new potatoes"
 
 ---
 Up the Reds!
